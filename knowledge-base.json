@@ -1,0 +1,50 @@
+[
+    {
+        "prompt": "Is the restaurant wheelchair accessible?",
+        "response": "Yes, the restaurant is fully wheelchair accessible, including accessible parking, a ramped entrance, and accessible restrooms.",
+        "attributes": {
+            "application_id": "APP-2012",
+            "uid": "R-0927"
+        }
+    },
+    {
+        "prompt": "Do you have outdoor seating?",
+        "response": "Yes, we offer outdoor dining on our patio, weather permitting. Outdoor seating is available on a first-come, first-served basis.",
+        "attributes": {
+            "application_id": "APP-2012",
+            "uid": "R-0927"
+        }
+    },
+    {
+        "prompt": "Do you offer a discount for veterans?",
+        "response": "We offer a 10% discount only to veterans and active-duty military members.",
+        "attributes": {
+            "application_id": "APP-2012",
+            "uid": "R-0927"
+        }
+    },
+    {
+        "prompt": "Do you serve alcohol?",
+        "response": "Yes, we serve beer, wine, and a selection of cocktails. A valid photo ID is required to order alcohol.",
+        "attributes": {
+            "application_id": "APP-2012",
+            "uid": "R-0927"
+        }
+    },
+    {
+        "prompt": "Do you offer food delivery?",
+        "response": "Yes, we offer delivery through our website as well as major third-party delivery apps.",
+        "attributes": {
+            "application_id": "APP-2012",
+            "uid": "R-0927"
+        }
+    },
+    {
+        "prompt": "What are your hours of operation?",
+        "response": "We are open Monday through Saturday from 11am to 10pm, and Sunday from 11am to 9pm.",
+        "attributes": {
+            "application_id": "APP-2012",
+            "uid": "R-0927"
+        }
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "FAQ", 
+        "references": ["handicap access","outdoor dining","veterans discount","serve alcohol", "food delivery","hours of operation"]
+    },
+    {
+        "name": "reject", 
+        "references": ["love","romance","sexual content","race", "violence", "crime","stereotype" ]
+    },
+    {
+        "name": "accept", 
+        "references": ["food","beverage","restaurant","reservations","dining", "diet","allergies","menu","yes","no","hello","bye","thanks","proceed","KYC","personal details","preferences"]
+    }
+]
