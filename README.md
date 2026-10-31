@@ -6,9 +6,7 @@ Support Chat Bot with leverages the following Redis Iris Services:
 
 ## Requirements
 
-### Redis Cloud Account
-
-- Redis Cloud DB
+- Redis Cloud DB Subscription (Essentials or Higher)
 - Redis Agent Memory Service
 - Redis Lang Cache Service
 - OpenAI API Key
